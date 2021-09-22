@@ -1,0 +1,33 @@
+
+
+body{
+    background-image: url(images/bg.jpg);
+    background-repeat:repeat;
+    color: #ff3864;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+#box{
+    width: var(--bound);
+    height: var(--bound);
+    background-color: red;
+    display: none;
+    position: relative;
+
+}
+.a1{
+    text-align: center;
+    font-size: 30px;
+}
+#pic{
+    width: 400x;
+    height: 400px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    
+
+}

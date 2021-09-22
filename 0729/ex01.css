@@ -1,0 +1,24 @@
+body{
+    background-image: url(images/bg.jpg);
+    background-repeat:repeat;
+    color: #ff3864;
+    
+}
+p{
+    text-align: center;
+    font-size: 40px;
+}
+.c1{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+#pic{
+    width: 400x;
+    height: 400px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    
+
+}
